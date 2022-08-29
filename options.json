@@ -1,0 +1,58 @@
+[
+  {
+    "container": {
+      "class": "options-group"
+    },
+    "input": {
+      "id": "uppercase",
+      "class": "form-check-input",
+      "name": "option-checkbox"
+    },
+    "label": {
+      "for": "uppercase",
+      "textContent": "Include Uppercase Letters"
+    }
+  },
+  {
+    "container": {
+      "class": "options-group"
+    },
+    "input": {
+      "id": "lowercase",
+      "class": "form-check-input",
+      "name": "option-checkbox"
+    },
+    "label": {
+      "for": "lowercase",
+      "textContent": "Include Lowercase Letters"
+    }
+  },
+  {
+    "container": {
+      "class": "options-group"
+    },
+    "input": {
+      "id": "numbers",
+      "class": "form-check-input",
+      "name": "option-checkbox"
+    },
+    "label": {
+      "for": "numbers",
+      "textContent": "Include Numbers"
+    }
+  },
+  {
+    "container": {
+      "class": "options-group"
+    },
+    "input": {
+      "id": "symbols",
+      "class": "form-check-input",
+      "name": "option-checkbox"
+    },
+    "label": {
+      "for": "symbols",
+      "textContent": "Include Symbols"
+    }
+  }
+]
